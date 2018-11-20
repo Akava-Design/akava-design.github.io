@@ -1,1 +1,2 @@
-<p align="center"><img src="https://i.imgur.com/6WnO5sp.png"></p>
+## Akava Design - Project for KDE and Qt
+Include engine, widget, colors theme. 
